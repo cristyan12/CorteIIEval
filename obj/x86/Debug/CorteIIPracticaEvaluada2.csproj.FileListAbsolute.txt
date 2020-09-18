@@ -1,0 +1,5 @@
+c:\users\cristyan\documents\visual studio 2010\Projects\CorteIIPracticaEvaluada2\CorteIIPracticaEvaluada2\bin\Debug\CorteIIPracticaEvaluada2.exe
+c:\users\cristyan\documents\visual studio 2010\Projects\CorteIIPracticaEvaluada2\CorteIIPracticaEvaluada2\bin\Debug\CorteIIPracticaEvaluada2.pdb
+c:\users\cristyan\documents\visual studio 2010\Projects\CorteIIPracticaEvaluada2\CorteIIPracticaEvaluada2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cristyan\documents\visual studio 2010\Projects\CorteIIPracticaEvaluada2\CorteIIPracticaEvaluada2\obj\x86\Debug\CorteIIPracticaEvaluada2.exe
+c:\users\cristyan\documents\visual studio 2010\Projects\CorteIIPracticaEvaluada2\CorteIIPracticaEvaluada2\obj\x86\Debug\CorteIIPracticaEvaluada2.pdb

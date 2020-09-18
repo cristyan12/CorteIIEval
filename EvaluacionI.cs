@@ -38,7 +38,7 @@ namespace CorteIIPracticaEvaluada2
 
                 // 1. Cantidad de personas con edad comprendida entre 15 y 20 años
                 if (edad >= 15 && edad <= 20) {
-                    dosEdades += i;
+                    dosEdades += 1;
                 }
 
                 // 2. Cantidad de personas mayores a 21 años
@@ -52,22 +52,22 @@ namespace CorteIIPracticaEvaluada2
 
                 // 3. Cantidad de personas con peso menor o igual a 72 kilogramos 
                 if (peso <= 72) {
-                    pesoMenor72 += i;
+                    pesoMenor72 += 1;
                 }
 
                 // 4. Cantidad de personas con peso mayor a 80 kilogramos 
                 if (peso > 80) {
-                    pesoMayor80 += i;
+                    pesoMayor80 += 1;
                 }
 
                 // 5.1 Cantidad de personas con edad igual a 18 años
                 if (edad == 18) {
-                    edad18 += i;
+                    edad18 += 1;
                 }
 
                 // 5.2 Cantidad de personas con peso igual a 70 KG
                 if (peso == 70) {
-                    peso70 += i;
+                    peso70 += 1;
                 }
 
                 // Estatura
@@ -78,7 +78,7 @@ namespace CorteIIPracticaEvaluada2
                 // 5.3 Cantidad de personas con estatura mayor o igual
                 // que 1.80 metros
                 if (estatura >= 180) {
-                    estaturaMayorIgual180 += i;
+                    estaturaMayorIgual180 += 1;
                 }
 
                 Console.WriteLine();
